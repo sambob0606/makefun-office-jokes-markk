@@ -1,5 +1,9 @@
 # One-Line Office Jokes
 
+[![make.fun · u-markk-st-one-line-office-jokes-a51f2bcc](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-office-jokes-a51f2bcc)
+[![rank](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc/sambob0606/makefun-office-jokes-markk/rank.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-office-jokes-a51f2bcc)
+[![reward](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc/sambob0606/makefun-office-jokes-markk/reward.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-office-jokes-a51f2bcc)
+
 Entry for the make.fun competition
 [u-markk-st-one-line-office-jokes-a51f2bcc](https://make.fun/competitions/u-markk-st-one-line-office-jokes-a51f2bcc):
 write exactly one single-line joke about office life.
